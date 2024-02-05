@@ -82,9 +82,6 @@ Tujuan: Menarik kesimpulan dari hasil analisis dan menyusun rekomendasi berdasar
 
 Tujuan: Menyajikan hasil analisis dan temuan kepada pelanggan.
 
-   - Proses:
-       - Siapkan presentasi dengan ringkas dan jelas.
-       - Sertakan grafik, tabel, dan visualisasi data untuk mendukung temuan.
-       - Jelaskan metodologi yang digunakan dan interpretasi hasil.
-       - Berikan rekomendasi berdasarkan temuan.
-       - Berikan kesempatan untuk pertanyaan dan diskusi.
+https://drive.google.com/drive/folders/1EXWXty1fdPsv9FEzUjfIPl16r49UdZSz?usp=sharing
+
+https://public.tableau.com/shared/N8666PGTF?:display_count=n&:origin=viz_share_link
